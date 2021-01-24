@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\феликс\source\repos\figure\figure\main.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\феликс\source\repos\figure\figure\main.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+  Figure.vcxproj -> C:\Users\Феликс\source\repos\Figure\Debug\Figure.exe

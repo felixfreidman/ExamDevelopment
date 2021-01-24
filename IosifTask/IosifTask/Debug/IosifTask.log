@@ -1,0 +1,27 @@
+﻿  IosifTask.cpp
+c:\users\феликс\source\repos\iosiftask\iosiftask\iosiftask.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\феликс\source\repos\iosiftask\iosiftask\iosiftask.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\феликс\source\repos\iosiftask\iosiftask\linkedlist.h(213): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\феликс\source\repos\iosiftask\iosiftask\linkedlist.h(211): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\феликс\source\repos\iosiftask\iosiftask\iosiftask.cpp(36): note: выполняется компиляция ссылки на экземпляр шаблон функции "int LinkedList<int>::getSize(void)"
+  c:\users\феликс\source\repos\iosiftask\iosiftask\iosiftask.cpp(26): note: выполняется компиляция ссылки на экземпляр шаблон класс "LinkedList<int>"
+c:\users\феликс\source\repos\iosiftask\iosiftask\linkedlist.h(73): warning C4018: >=: несоответствие типов со знаком и без знака
+  c:\users\феликс\source\repos\iosiftask\iosiftask\linkedlist.h(69): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\феликс\source\repos\iosiftask\iosiftask\iosiftask.cpp(32): note: выполняется компиляция ссылки на экземпляр шаблон функции "void LinkedList<int>::printElems(void)"
+c:\users\феликс\source\repos\iosiftask\iosiftask\linkedlist.h(202): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\феликс\source\repos\iosiftask\iosiftask\linkedlist.h(201): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\феликс\source\repos\iosiftask\iosiftask\linkedlist.h(155): note: выполняется компиляция ссылки на экземпляр шаблон функции "int LinkedList<int>::getElementPosition(T &)"
+          with
+          [
+              T=int
+          ]
+c:\users\феликс\source\repos\iosiftask\iosiftask\linkedlist.h(192): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\феликс\source\repos\iosiftask\iosiftask\linkedlist.h(191): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\феликс\source\repos\iosiftask\iosiftask\linkedlist.h(141): note: выполняется компиляция ссылки на экземпляр шаблон функции "LinkedListElem<T> *LinkedList<T>::getElement(T &)"
+          with
+          [
+              T=int
+          ]
+  linkedListException.cpp
+  Создание кода...
+  IosifTask.vcxproj -> C:\Users\Феликс\source\repos\IosifTask\Debug\IosifTask.exe

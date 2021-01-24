@@ -1,0 +1,4 @@
+﻿  Polynomic.cpp
+c:\users\феликс\source\repos\mathfunctions\mathfunctions\polynomic.cpp(9): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\феликс\source\repos\mathfunctions\mathfunctions\polynomic.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
+  MathFunctions.vcxproj -> C:\Users\Феликс\source\repos\MathFunctions\Debug\MathFunctions.exe
